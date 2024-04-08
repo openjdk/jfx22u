@@ -27,4 +27,9 @@ Issue key|Summary|Subcomponent
 
 Issue key|Summary|Subcomponent
 ---------|-------|------------
-JDK-nnnnnnn (not public)|TITLE|SUBCOMPONENT
+JDK-8313040 (not public)|Enhanced Font handling|graphics
+JDK-8313064 (not public)|General enhancements of image handling|graphics
+JDK-8313072 (not public)|Enhanced handling of Fonts|graphics
+JDK-8322236 (not public)|Build failure after JDK-8313064|graphics
+JDK-8313032 (not public)|Enhanced handling of Glass|window-toolkit
+JDK-8320441 (not public)|Additonal fix for JDK-8313032|window-toolkit
